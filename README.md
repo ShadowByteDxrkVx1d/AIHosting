@@ -1,2 +1,2 @@
 # AIHosting
-24/7 AI Hosting über Render.com
+24/7 AI Hosting über Google Colab
